@@ -8,6 +8,6 @@ import { Component } from '@angular/core';
 export class Tab1Page {
   saludo: string = '';
   constructor() {
-    this.saludo = 'Hola a todos, biembenidos a mi primer APP';
+    this.saludo = 'Hola, biembenidos';
   }
 }
